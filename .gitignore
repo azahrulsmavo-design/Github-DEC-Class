@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Data Engineering specific
+# Kita commit raw data (karena kecil/sample), tapi JANGAN commit processed data
+data/processed/*.csv
+data/processed/*.json
+
+# OS specific
+.DS_Store
