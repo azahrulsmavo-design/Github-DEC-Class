@@ -3,7 +3,7 @@
 Welcome to the **GitHub Workflow Workshop**!
 
 This repository serves as the **Starter Template** for the workshop. You will learn how to automate quality checks using GitHub Actions while working on a simple Python Data Engineering pipeline.
-
+https://www.python.org/static/community_logos/python-logo.png
 ## Workshop Materials
 
 Everything you need is in the `workshop_materials/` folder:
